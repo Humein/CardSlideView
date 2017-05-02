@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8CD867472077B601B58BBE3384EB7F7F0AF1E324",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CD867472077B601B58BBE3384EB7F7F0AF1E324" : 9223372036854775807,
+    "C4E3116EEDD907D2DB86438041AC6E08FE812187" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9E6BFD77-DF84-4756-876B-5F7774640D81",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CD867472077B601B58BBE3384EB7F7F0AF1E324" : "CardSlideView\/",
+    "C4E3116EEDD907D2DB86438041AC6E08FE812187" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CardSlideView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CardSlideView\/CardSlideView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/QinKingHan\/CardSlideView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CD867472077B601B58BBE3384EB7F7F0AF1E324"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.199.100:Tiku_iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4E3116EEDD907D2DB86438041AC6E08FE812187"
+    }
+  ]
+}
